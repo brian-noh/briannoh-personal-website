@@ -22,6 +22,11 @@ header {
 header h1 {
     margin: 10px 0;
 }
+/* Typography Styles */
+h1 {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+}
 
 nav ul {
     list-style: none;
